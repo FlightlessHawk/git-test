@@ -8,5 +8,6 @@ public class gitTest {
         System.out.println("third commit");
         System.out.println("我要休息一下");
         System.out.println("i am hot-fix1");
+        System.out.println("hot-fix1 test");
     }
 }
