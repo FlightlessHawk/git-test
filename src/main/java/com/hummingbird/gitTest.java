@@ -11,5 +11,6 @@ public class gitTest {
         System.out.println("master test");
         System.out.println("hot-fix1 test");
         System.out.println("idea推送代码到github");
+        System.out.println("idea从github拉取代码");
     }
 }
